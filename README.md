@@ -1,5 +1,6 @@
 # 💼 AI Tech Job Search & Insights Assistant
 > **LLM Zoomcamp Capstone Project** | End-to-End Advanced RAG Application
+> 🌐 **Live Demo:** [https://tech-job-rag.streamlit.app](https://tech-job-rag.streamlit.app)
 
 An end-to-end Retrieval-Augmented Generation (RAG) system built to search, analyze, and synthesize real-world tech job descriptions. Powered by **dlt**, **ChromaDB**, **Groq (Llama 3.3 70B)**, **FlashRank**, and **Streamlit**, this project features advanced search techniques (HyDE, Hybrid Search, Reciprocal Rank Fusion, Re-ranking), offline/online evaluation metrics, automated ingestion, and real-time UI monitoring with user feedback collection.
 
